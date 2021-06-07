@@ -8,4 +8,4 @@ php artisan db:seed --class=CreateAdminUserSeeder
 php artisan db:seed --class=AuthorSeeder
 Login with phone: 1234567891 and password : 123456
 Add Book with authors and check books listing with authors
-Thanks!
+Thanks! 
